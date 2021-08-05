@@ -1,0 +1,16 @@
+{
+  "name": "swapi_proxy",
+  "version": "1.0.0",
+  "description": "Proxy server for SWAPI with ewok language implementation",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MaryLynJuana/swapi-proxy"
+  },
+  "author": "MaryLynJuana",
+  "license": "ISC",
+  "homepage": "https://github.com/MaryLynJuana/swapi-proxy#readme"
+}
