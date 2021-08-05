@@ -12,5 +12,9 @@
   },
   "author": "MaryLynJuana",
   "license": "ISC",
-  "homepage": "https://github.com/MaryLynJuana/swapi-proxy#readme"
+  "homepage": "https://github.com/MaryLynJuana/swapi-proxy#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
 }
