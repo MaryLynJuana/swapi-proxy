@@ -4,7 +4,8 @@
   "description": "Proxy server for SWAPI with ewok language implementation",
   "main": "src/main.js",
   "scripts": {
-    "start": "node src/main.js"
+    "start": "node src/main.js",
+    "test": "node test/encoding_test.js"
   },
   "repository": {
     "type": "git",
