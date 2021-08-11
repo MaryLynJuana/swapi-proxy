@@ -121,7 +121,7 @@ const testRequest = async path => {
     assert.strictEqual(data, expected, `Wrong response data,
         expected: ${expected},
         got: ${data}`);
-    if (counter <= 0) server.close(() => console.log('Tests finished'));
+    if (counter <= 0) server.close(() => console.log('Server tests finished!'));
   });
   req.setTimeout(3000, () => assert.fail('Request timed out'));
 };
