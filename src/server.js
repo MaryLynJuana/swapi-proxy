@@ -15,7 +15,7 @@ const routing = {
     },
     '/planets': (id, searchPars, callback) => {
       console.log(`Sending request to swapi for route /planets/${id}`);
-      https.get(`${swapiUrl}/planets/${id}${searchPars}`, callback)
+      https.get(`${swapiUrl}/planets/${id}${searchPars}`, callback);
     },
   },
 };

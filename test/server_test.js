@@ -38,33 +38,33 @@ const tests = {
 "url":"https://swapi.dev/api/people/1/"\
 }',
   'people/1?encoding=ewok': '{\
-"bibi":"bibi bbibibbib",\
-"biibbb":"172",\
-"bibb":"77",\
-"biib_bibib":"bbibb",\
-"bbib_bibib":"biib",\
-"iii_bibib":"bbii",\
-"bibbb_iiib":"19bbi",\
-"bibbib":"bibi",\
-"bibibibbb":"bbbbb://bbibi.bib/ibi/bbibibb/1/",\
-"bibbb":[\
+"name":"bibi bbibibbib",\
+"height":"172",\
+"mass":"77",\
+"hair_color":"bbibb",\
+"skin_color":"biib",\
+"eye_color":"bbii",\
+"birth_year":"19bbi",\
+"gender":"bibi",\
+"homeworld":"bbbbb://bbibi.bib/ibi/bbibibb/1/",\
+"films":[\
 "bbbbb://bbibi.bib/ibi/bibbb/1/",\
 "bbbbb://bbibi.bib/ibi/bibbb/2/",\
 "bbbbb://bbibi.bib/ibi/bibbb/3/",\
 "bbbbb://bbibi.bib/ibi/bibbb/6/"\
 ],\
-"bbibiib":[],\
-"bibibbib":[\
+"species":[],\
+"vehicles":[\
 "bbbbb://bbibi.bib/ibi/bibibbib/14/",\
 "bbbbb://bbibi.bib/ibi/bibibbib/30/"\
 ],\
-"bbibbbibb":[\
+"starships":[\
 "bbbbb://bbibi.bib/ibi/bbibbbibb/12/",\
 "bbbbb://bbibi.bib/ibi/bbibbbibb/22/"\
 ],\
-"bbiibib":"2014-12-09b13:50:51.644000b",\
-"ibibib":"2014-12-20b21:17:56.891000b",\
-"ibb":"bbbbb://bbibi.bib/ibi/biibbi/1/"\
+"created":"2014-12-09b13:50:51.644000b",\
+"edited":"2014-12-20b21:17:56.891000b",\
+"url":"bbbbb://bbibi.bib/ibi/biibbi/1/"\
 }',
   'planets/4': '{\
 "name":"Hoth",\
@@ -85,22 +85,22 @@ const tests = {
 "url":"https://swapi.dev/api/planets/4/"\
 }',
   'planets/4?encoding=ewok': '{\
-"bibi":"bibb",\
-"bibibiib_bibiib":"23",\
-"ibbibib_bibiib":"549",\
-"biibibib":"7200",\
-"bbibibi":"bbibib",\
-"bbibibi":"1.1 bbibbibb",\
-"bibbiib":"bibbbi, ibi bibib, biibbiib bibbib",\
-"bibbibi_bibib":"100",\
-"bibibibiib":"ibbbibb",\
-"bibibibbb":[],\
-"bibbb":[\
+"name":"bibb",\
+"rotation_period":"23",\
+"orbital_period":"549",\
+"diameter":"7200",\
+"climate":"bbibib",\
+"gravity":"1.1 bbibbibb",\
+"terrain":"bibbbi, ibi bibib, biibbiib bibbib",\
+"surface_water":"100",\
+"population":"ibbbibb",\
+"residents":[],\
+"films":[\
 "bbbbb://bbibi.bib/ibi/bibbb/2/"\
 ],\
-"bbiibib":"2014-12-10b11:39:13.934000b",\
-"ibibib":"2014-12-20b20:58:18.423000b",\
-"ibb":"bbbbb://bbibi.bib/ibi/bbibibb/4/"\
+"created":"2014-12-10b11:39:13.934000b",\
+"edited":"2014-12-20b20:58:18.423000b",\
+"url":"bbbbb://bbibi.bib/ibi/bbibibb/4/"\
 }',
 };
 
